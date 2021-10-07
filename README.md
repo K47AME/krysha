@@ -7,3 +7,8 @@ Adaptive and cross-browser layout of the site for the sale of apartments and hou
 ---
 
 Адаптивная и кроссбраузерная верстка сайта по продаже квартир и домов
+
+Technologies:
+- html
+- scss
+- pure javascript
