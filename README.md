@@ -1,6 +1,6 @@
 # krysha
 
-Link to [page](https://yond4ime.github.io/krysha/)
+Link to [page](https://k47ame.github.io/krysha/)
 
 Adaptive and cross-browser layout of the site for the sale of apartments and houses
 
